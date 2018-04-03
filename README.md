@@ -1,6 +1,20 @@
 # Социальная Архитектура - Питер Хинченс
 
-Данная книга была переведена и опубликована на ресурсе HabraHabr компанией [PhilTech](http://go.philtech.ru/), главный [пост](https://habrahabr.ru/company/philtech/blog/352390/).
+Данная книга была переведена и опубликована на ресурсе HabraHabr в блоге компании [PhilTech](http://go.philtech.ru/).
 
-[Оригинал](https://www.gitbook.com/book/hintjens/social-architecture/details).
+[Полный перевод книги про построение сообществ: «Социальная архитектура».](https://habrahabr.ru/company/philtech/blog/352390/)
+
+[Оригинал](https://www.gitbook.com/book/hintjens/social-architecture/details) книги на английском языке.
+
+
+
+Переводчики:
+
+* [Алексей Стасенко](https://habrahabr.ru/users/MagisterLudi/)
+
+* Кристина Стрельцова - Стратагемы для успеха open source проектов
+
+* [Руслан Ибрагимов](https://ruslan.ibragimov.by/) - Послесловие
+
+
 
