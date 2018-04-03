@@ -6,11 +6,11 @@
 
 [Оригинал](https://www.gitbook.com/book/hintjens/social-architecture/details) книги на английском языке.
 
-
-
 Переводчики:
 
-* [Алексей Стасенко](https://habrahabr.ru/users/MagisterLudi/)
+* [Алексей Стаценко](https://habrahabr.ru/users/MagisterLudi/) - координатор проекта
+
+* Сергей Даньшин 
 
 * Кристина Стрельцова - Стратагемы для успеха open source проектов
 
