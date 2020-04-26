@@ -1,0 +1,34 @@
+= Вступление
+
+[partintro]
+--
+ifndef::backend-html5[]
+http://github.com/IRus[Читать книгу в браузере]
+endif::[]
+
+ifndef::backend-pdf[]
+http://github.com/IRus[Скачать PDF]
+endif::[]
+
+ifndef::backend-epub3-xhtml5[]
+http://github.com/IRus[Скачать Epub]
+endif::[]
+
+Данная книга была переведена и опубликована на ресурсе HabraHabr в блоге компании http://go.philtech.ru/[PhilTech].
+
+https://habrahabr.ru/company/philtech/blog/352390/[Полный перевод книги про построение сообществ: «Социальная архитектура».]
+
+https://www.gitbook.com/book/hintjens/social-architecture/details[Оригинал] книги на английском языке.
+
+Переводчики:
+
+* https://habrahabr.ru/users/MagisterLudi/[Алексей Стаценко] - Координатор проекта
+
+* Сергей Даньшин - Предисловие, Главы 1-5
+
+* Кристина Стрельцова - Стратагемы для успеха open source проектов
+
+* Катя Шихова - Глава 6
+
+* https://ruslan.ibragimov.by/[Руслан Ибрагимов] - Послесловие
+--

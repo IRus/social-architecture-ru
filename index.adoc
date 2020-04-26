@@ -1,0 +1,22 @@
+= Социальная Архитектура
+:author: Питер Хинченс
+:doctype: book
+:toc:
+
+include::introduction.adoc[]
+
+include::preface.adoc[]
+
+include::ch1.adoc[]
+
+include::ch2.adoc[]
+
+include::ch3.adoc[]
+
+include::ch4.adoc[]
+
+include::ch5.adoc[]
+
+include::ch6.adoc[]
+
+include::postface.adoc[]

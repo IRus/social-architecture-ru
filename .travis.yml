@@ -1,0 +1,18 @@
+version: ~> 1.0
+
+language: minimal
+
+services:
+  - docker
+
+script:
+  - ./build.sh
+
+deploy:
+  provider: pages
+  local_dir: dist
+  skip_cleanup: true
+  github_token: $GH_TOKEN
+  keep_history: true
+  on:
+    branch: master
