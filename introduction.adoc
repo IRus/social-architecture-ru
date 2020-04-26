@@ -3,15 +3,15 @@
 [partintro]
 --
 ifndef::backend-html5[]
-http://github.com/IRus[Читать книгу в браузере]
+https://irus.github.io/social-architecture-ru/[Читать книгу в браузере]
 endif::[]
 
 ifndef::backend-pdf[]
-http://github.com/IRus[Скачать PDF]
+https://irus.github.io/social-architecture-ru/social-architecture-ru.pdf[Скачать PDF]
 endif::[]
 
 ifndef::backend-epub3-xhtml5[]
-http://github.com/IRus[Скачать Epub]
+https://irus.github.io/social-architecture-ru/social-architecture-ru.epub[Скачать Epub]
 endif::[]
 
 Данная книга была переведена и опубликована на ресурсе HabraHabr в блоге компании http://go.philtech.ru/[PhilTech].
