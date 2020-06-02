@@ -1,14 +1,12 @@
 = Дизайн, разработка, инновации
 
 ____
-
 «Размер и разнообразие сообщества является ключевым фактором.»
-
 ____
 
 Давайте рассмотрим инновации, которые Википедия определяет как «развитие новых ценностей посредством решений, которые отвечают новым требованиям, не явным потребностям или потребностям старых клиентов или рынков в новых способах добавления стоимости». На самом деле это значит решать проблемы более дешевым способом. Звучит просто, но истории рухнувших технологических гигантов говорят об обратном. Я постараюсь объяснить, почему команды часто понимают это не правильно, и предложу способ, как нужно создавать что-то инновационное.
 
-=== История двух мостов
+== История двух мостов
 
 Два старых инженера разговаривали о жизни и хвастались своими выдающимися проектами. Один из инженеров рассказал, как он разработал один из величайших когда-либо созданных мостов.
 
@@ -18,7 +16,7 @@ ____
 
 Первый инженер слушал молча. «Забавно», — сказал он — «мой мост был разобран спустя десять лет после того, как мы его построили. Оказалось, что он был построен на неправильном месте, и никто не хотел им пользоваться. Какие-то ребята перебросили веревку над ущельем, несколько миль дальше по течению, и там-то все и ходили».
 
-=== Как ZeroMQ потерял свою дорожную карту
+== Как ZeroMQ потерял свою дорожную карту
 
 Когда я представлял ZeroMQ на конференции Mix-IT в Лионе (Франция) в начале 2012 г., меня несколько раз спросили про «дорожную карту». Мой ответ был: нет больше дорожной карты. У нас они были, и мы их ликвидировали. Вместо нескольких экспертов, пытающихся определить следующие шаги, мы позволили событиям развиваться естественным путем. Аудитории не очень понравился мой ответ. Слишком не по-французски.
 
@@ -62,7 +60,7 @@ ____
 
 Чтобы лучше понять то, как мы пришли к ОПР, давайте рассмотрим альтернативы.
 
-=== Trash-Oriented Design
+== Trash-Oriented Design
 
 Наиболее популярным типом разработки в крупных организациях является «Trash-Oriented Design». TOD основывается на убеждении, что для того, чтобы делать деньги нам нужны крутые идеи. Это упорно всплывающая чушь является мощным костылем для тех, кто лишен воображения. Теория гласит так: идеи редки, поэтому весь фокус в том, чтобы схватить их. Словно далекие от музыки люди восторгаются гитаристом, не понимая, что великие таланты настолько дешевы, что они буквально играют на улицах за копейки.
 
@@ -90,7 +88,7 @@ TOD мог бы быть карикатурой, если бы не был та�
 
 Теперь, сразив дракона абсолютной бесполезности, атакуем демона сложности.
 
-=== Complexity-Oriented Design
+== Complexity-Oriented Design
 
 По настоящему хорошие команды разработчиков и маленькие компании могут обычно заниматься созданием приличных продуктов. Но большая часть продуктов все равно получится слишком сложными и менее успешными, чем могли бы быть. Это все потому, что команды специалистов, даже лучшие из них, часто упрямо практикуют Ориентированную на сложность разработку, (Complexity-Oriented Design, COD), как я ее называю. И работает она так:
 
@@ -116,7 +114,7 @@ COD является кроличьей норой для разработчик
 * Проблемы зачастую неравнозначны. Некоторые просто решить, другие сложно. Иронично, но решение простых проблем чаще приносит пользу людям, чем решение сложных проблем. Поэтому если вы позволите вашим разработчикам работать над случайными вещами, скорее всего они сфокусируются на самым интересных, но не актуальных задачах.
 * Инженеры и разработчики любят делать разные штуки и украшать их, а это неизбежно приведет к сложности. Крайне важно иметь «стоп-кран», способ задавать короткие, строгие сроки, которые заставят людей искать менее значительные, простые ответы на наиболее важные задачи.
 
-=== Simplicity Oriented Design
+== Simplicity Oriented Design
 
 Наконец, мы подошли к редкой и ценной Ориентированной на простоту разработке (Simplicity Oriented Design, SOD). Этот процесс начинается с реализации: мы не знаем, что мы должны сделать, пока не начнем делать что-то. Выдвижение идей или крупных проектов не просто бесполезно, а мешает разрабатывать по-настоящему точные решения. Действительно лакомые задачи спрятаны, как заветные оазисы, и любая деятельность, кроме разыскивания их, лишь больше окутывает их туманом. Вам нужно быть мобильным, двигаться быстро и налегке.
 
@@ -145,7 +143,59 @@ SOD — восходящий алгоритм, надежный способ н�
 
 В open source проектах мы делаем эту работу публично. Нет такого момента «а давайте откроем код». Когда так делают, по-моему, это говорит о том, что люди не понимают смысл open source проектов — вовлечь пользователей в ваше исследование и построить сообщество вокруг основной архитектуры.
 
-= Стратагемы для успеха open source проектов
+// TODO
+== Burnout
+
+The ZeroMQ community has been and still is heavily dependent on pro bono individual efforts.
+I'd like to think that everyone was compensated in some way for their contributions, and I believe that with ZeroMQ, contributing means gaining expertise in an extraordinarily valuable technology, which leads to improved professional options.
+
+However, not all projects will be so lucky and if you work with or in open source, you should understand the risk of burnout that volunteers face.
+This applies to all pro bono communities.
+In this section, I'll explain what causes burnout, how to recognize it, how to prevent it, and (if it happens) how to try to treat it.
+Disclaimer: I'm not a psychiatrist and this article is based on my own experiences of working in pro bono contexts for the last 20 years, including free software projects, and NGOs such as the [http://www.ffii.org FFII].
+
+In a pro bono context, we're expected to work without direct or obvious economic incentive.
+That is, we sacrifice family life, professional advancement, free time, and health in order to accomplish some goal we have decided to accomplish.
+In any project, we need some kind of reward to make it worth continuing each day.
+In most pro bono projects the rewards are very indirect, superficially not economical at all.
+Mostly, we do things because people say, "Hey, great!" Karma is a powerful motivator.
+
+However, we are economic beings, and sooner or later, if a project costs us a great deal and does not bring economic rewards of some kind (money, fame, a new job), we start to suffer.
+At a certain stage, it seems our subconscious simply gets disgusted and says, "Enough is enough!" and refuses to go any further.
+If we try to force ourselves, we can literally get sick.
+
+This is what I call "burnout", though the term is also used for other kinds of exhaustion.
+Too much investment on a project with too little economic reward, for too long.
+We are great at manipulating ourselves and others, and this is often part of the process that leads to burnout.
+We tell ourselves that it's for a good cause and that the other guy is doing OK, so we should be able to as well.
+
+When I got burned out on open source projects like Xitami, I remember clearly how I felt.
+I simply stopped working on it, refused to answer any more emails, and told people to forget about it.
+You can tell when someone's burned out.
+They go offline, and everyone starts saying, "He's acting strange... depressed, or tired..."
+
+Diagnosis is simple.
+Has someone worked a lot on a project that was not paying back in any way?
+Did she make exceptional sacrifices?
+Did he lose or abandon his job or studies to do the project?
+If you're answering "yes", it's burnout.
+
+There are three simple techniques I've developed over the years to reduce the risk of burnout in the teams I work with:
+
+* //No one is irreplaceable.// Working solo on a critical or popular project--the concentration of responsibility on one person who cannot set their own limits--is probably the main factor.
+It's a management truism: if someone in your organization is irreplaceable, get rid of him or her.
+
+* //We need day jobs to pay the bills.// This can be hard, but seems necessary.
+Getting money from somewhere else makes it much easier to sustain a sacrificial project.
+
+* //Teach people about burnout.// This should be a basic course in colleges and universities, as pro bono work becomes a more common way for young people to experiment professionally.
+
+When someone is working alone on a critical project, you //know// they are going blow their fuses sooner or later.
+It's actually fairly predictable: something like 18-36 months depending on the individual and how much economic stress they face in their private lives.
+I've not seen anyone burn-out after half a year, nor last five years in a unrewarding project.
+
+There is a simple cure for burnout that works in at least some cases: get paid decently for your work.
+However, this pretty much destroys the freedom of movement (across that infinite problem landscape) that the volunteer enjoys.
 
 == Шаблоны для успеха
 

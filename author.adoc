@@ -1,0 +1,11 @@
+[appendix]
+= Об Авторе
+
+Питер Хинченс - программист, писатель и мыслитель, основавший множество онлайновых сообществ.
+В 2005 году он возглавил Европейскую борьбу против патентов на программное обеспечение, помогая тысячам активистов организовывать онлайн-акции.
+В 2007 году он основал успешное и обширное сообщество ZeroMQ.
+
+
+== Другие книги
+
+Другие книги того же автора: http://www.amazon.com/ZeroMQ-Messaging-Applications-Pieter-Hintjens/dp/1449334067[ZeroMQ - Messaging for Many Applications] (O'Reilly), http://cultureandempire.com[Culture and Empire: Digital Revolution] (Amazon.com), http://thepsychopathcode.com[The Psychopath Code] (Amazon.com).
