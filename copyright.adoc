@@ -1,0 +1,12 @@
+[appendix]
+= Копирайт
+
+_На оригинальную книгу_
+
+* Edition 1.1: 15 May 2016
+* ISBN 978-1533112453
+* Copyright © 2016 Pieter Hintjens
+* Free to share and remix under CC-BY-SA-4.0
+* Published by Pieter Hintjens
+* Cover font: Kontrapunkt by Bo Linnemann, Kontrapunkt A/S. Text fonts: EB Garamond by Georg Duffner, MonospaceTypewriter by Manfred Klein.
+* http://hintjens.com/books

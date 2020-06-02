@@ -1,23 +1,11 @@
-= Вступление
-
-[partintro]
---
-ifndef::backend-html5[]
-- https://irus.github.io/social-architecture-ru/[Читать книгу в браузере]
-endif::[]
-ifndef::backend-pdf[]
-- https://irus.github.io/social-architecture-ru/social-architecture-ru.pdf[Скачать PDF]
-endif::[]
-ifndef::backend-epub3-xhtml5[]
-- https://irus.github.io/social-architecture-ru/social-architecture-ru.epub[Скачать Epub]
-endif::[]
-- https://github.com/IRus/social-architecture-ru[Репозиторий на Github]
+[appendix]
+= О переводе
 
 Данная книга была переведена и опубликована на ресурсе HabraHabr в блоге компании http://go.philtech.ru/[PhilTech].
 
 https://habrahabr.ru/company/philtech/blog/352390/[Полный перевод книги про построение сообществ: «Социальная архитектура».]
 
-https://www.gitbook.com/book/hintjens/social-architecture/details[Оригинал] книги на английском языке.
+https://github.com/hintjens/socialarchitecture[Оригинал] книги на английском языке.
 
 Переводчики:
 
@@ -30,4 +18,3 @@ https://www.gitbook.com/book/hintjens/social-architecture/details[Оригина
 * Катя Шихова - Глава 6
 
 * https://ruslan.ibragimov.by/[Руслан Ибрагимов] - Послесловие
---
