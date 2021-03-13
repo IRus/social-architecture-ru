@@ -1,49 +1,31 @@
 // TODO
 
-= Sidebars
+= Дополнительные аспекты
 
-In the previous chapter, I examined my toolbox for building on-line communities.
-Now I'll look at few other key ideas that are worth knowing about.
+В предыдущей главе я представил свой инструментарий для создания онлайн-сообществ.
+Теперь я рассмотрю несколько других ключевых идей, о которых стоит знать.
 
-== The Market Curve
+== Маркетинговая Кривая
 
-The [https://www.google.com/search?q=marketing+curve market curve] is a well-known theory of marketing that is less known in engineering and community building.
-However it's important to understanding how communities develop over time.
-In the classic market curve, a new technology, idea, or product enters the market as a wave, starting with ice-breaking enthusiasts and pioneers, then the early adopters, then the mass market, then the late adopters, and finally the skeptics.
+[https://www.google.com/search?q=marketing+curve Маркетинговая кривая] - это хорошо известная теория в маркетинге, о которой мало знают в инженерии и создании сообществ. Однако важно понимать, как сообщества развиваются с течением времени. В классической маркетинговой кривой новая технология, идея или продукт входят на рынок как волна, начиная с энтузиастов и первопроходцев, затем ранних последователей, затем массового рынка, затем поздних последователей и, наконец, скептиков.
 
-Each of these groups has different motivations for coming to a project, joining in, and eventually, leaving.
-If we take an exciting new technology like ZeroMQ, we can explore this and understand how it works:
+У каждой из этих групп есть разные мотивы для прихода в проект, присоединения к нему и, в конечном счете, ухода.
+Если мы возьмем такую захватывающую новую технологию, как ZeroMQ, мы сможем исследовать ее и понять, как она работает:
 
-* When the project is young and experimental, it attracts pundits and researchers whose business is new stuff, in general.
-These people need to know why the project is different from what exists, what its goals are, and why it is exciting.
-They will never use it, nor will they become contributors.
-They are your evangelists.
-They often lose interest rapidly.
+* Когда проект молодой и экспериментальный, он привлекает ученых и исследователей, которые ищут просто чего-то нового. Эти люди должны знать, почему проект отличается от того, что существует, каковы его цели и почему он интересен. Они никогда не будут этим пользоваться и не станут участниками. Они - ваши евангелисты. Часто они быстро теряют интерес.
 
-* When you have a seed product, it attracts pioneers.
-These are hard-core hackers who want the latest stuff and don't care about documentation, marketing, or tutorials.
-They're very good at managing the risk of new things.
-These are your first wave of contributors.
-Often they are building frameworks for other developers.
+* Когда у вас есть первая версия продукта, он привлекает ранних последователей. Это закоренелые хакеры, которые хотят знать всё самое новое и не заботятся о документации, маркетинге или обучающих программах. Они хорошо справляются с чем-то новым. Это ваша первая волна участников. Часто они создают фреймворки для других разработчиков.
 
-* When you have a real, usable product, it attracts early adopters.
-These are people making real products yet who are good at taking and managing risk.
-They still don't need much help, though they do expect some guarantee that things won't break randomly.
-This is the bulk of your community.
+* Когда у вас есть реальный, полезный продукт, он привлекает ранних последователей. Это люди, которые делают реальные продукты, но при этом хорошо умеют брать на себя риск и управлять им. Им по-прежнему не нужна большая помощь, хотя они и ожидают какой-то гарантии, что вещи не сломаются случайно. Это основная часть вашего сообщества.
 
-* When you are in version two or three, you will start to attract the mass market.
-These are people who expect stability and reliability.
-They'll ask questions like, "Do you offer support?" Some of these will become contributors.
-Mostly, however, they are the target paying customers.
+* Когда вы выпустите вторую и третью версии продукта, вы начнете привлекать массовый рынок. Это люди, которые ожидают стабильности и надежности. Они будут задавать вопросы типа: "Вы предлагаете поддержку?" Некоторые из них станут участниками. Однако в основном они являются целевыми платежеспособными клиентами.
 
-* Finally, when you are in later versions, the laggards and skeptics will finally pick up older versions and try them.
+* Наконец, когда вы находитесь в более поздних версиях, отстающие и скептики, наконец, возьмут старые версии и попробуют их.
 
-It's more complex than this, as you can have multiple overlapping curves.
-You need to keep the whole market interested, or you lose valuable sections of your community.
-Each section sells to the next, so you should aim new versions at the evangelists so they can sell them to the pioneers, and so on.
+Конечно, всё может быть гораздо сложнее, потому у вас может быть несколько перекрывающихся кривых. Вам нужно заинтересовать весь рынок, иначе вы потеряете значимые части своего сообщества. Каждый этап порождает следующий, поэтому вы должны нацелить новые версии на энтузиастов, чтобы они могли продать их ранним последователям и так далее.
 
-Once you understand the market curve, you see why it's counterproductive to, for instance, write perfect tutorials for the early versions.
-You won't get the mass market regardless and it will feel patronizing to the pioneers.
+Как только вы поймете маркетинговую кривую, вы поймете, почему контрпродуктивно, например, писать идеальные учебники для ранних версий.
+Вы все равно не получите массовый рынок, и это будет выглядеть слишком покровительственно по отношению к ранним последователям.
 
 == Эмоциональное выгорание волонтеров
 
