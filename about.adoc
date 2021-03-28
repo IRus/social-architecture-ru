@@ -9,12 +9,15 @@ https://github.com/hintjens/socialarchitecture[Оригинал] книги на
 
 Переводчики:
 
-* https://habrahabr.ru/users/MagisterLudi/[Алексей Стаценко] - Координатор проекта
+* https://habrahabr.ru/users/MagisterLudi/[Алексей Стаценко] – Координатор проекта
 
-* Сергей Даньшин - Предисловие, Главы 1-5
+* Сергей Даньшин – Предисловие, Главы 1-5
 
-* Кристина Стрельцова - Стратагемы для успеха open source проектов
+* Кристина Стрельцова – Стратагемы для успеха open source проектов
 
-* Катя Шихова - Глава 6
+* Катя Шихова – Глава 6
 
-* https://ruslan.ibragimov.by/[Руслан Ибрагимов] - Послесловие
+* https://ruslan.ibragimov.by/[Руслан Ибрагимов] – Послесловие
+
+* https://github.com/movefasta[ Avatar
+Igor Brylyov ] – Исправления и перевод части глав 1-5
