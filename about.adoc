@@ -5,6 +5,8 @@
 
 https://habrahabr.ru/company/philtech/blog/352390/[Полный перевод книги про построение сообществ: «Социальная архитектура».]
 
+https://youtu.be/wqlhYYtyRPI[Видео-обзор] книги на русском языке
+
 https://github.com/hintjens/socialarchitecture[Оригинал] книги на английском языке.
 
 Переводчики:
@@ -19,5 +21,4 @@ https://github.com/hintjens/socialarchitecture[Оригинал] книги на
 
 * https://ruslan.ibragimov.by/[Руслан Ибрагимов] – Послесловие
 
-* https://github.com/movefasta[ Avatar
-Igor Brylyov ] – Исправления и перевод части глав 1-5
+* https://github.com/movefasta[Игорь Брылёв] – Исправления и перевод части глав 1-5
