@@ -1,7 +1,7 @@
-# Social Architecture [RU] [![Build Status](https://travis-ci.com/IRus/social-architecture-ru.svg?branch=master)](https://travis-ci.com/IRus/social-architecture-ru)
+# Social Architecture [RU] [![Build](https://github.com/IRus/social-architecture-ru/actions/workflows/build.yml/badge.svg)](https://github.com/IRus/social-architecture-ru/actions/workflows/build.yml)
 
 Book automatically published to github pages.
-See [.travis.yml](./.travis.yml) for reference.
+See [.github/workflows/build.yml](.github/workflows/build.yml) for reference.
 
 To build book locally - run `build.sh`, docker required for build.
 

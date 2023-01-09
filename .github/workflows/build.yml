@@ -1,0 +1,19 @@
+name: "Build"
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    name: "Build on Ubuntu"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: ${PWD}/build.sh
+      - name: "Deploy Book"
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force_orphan: true
+          publish_dir: ./dist
+          publish_branch: gh-pages
