@@ -22,3 +22,5 @@ https://github.com/hintjens/socialarchitecture[Оригинал] книги на
 * https://ruslan.ibragimov.by/[Руслан Ибрагимов] – Послесловие
 
 * https://github.com/movefasta[Игорь Брылёв] – Исправления и перевод части глав 1-5
+
+* https://github.com/redboo[Сергей Заложный] при поддержке сообщества Discord — Перевод части главы 2
