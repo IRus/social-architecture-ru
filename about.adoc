@@ -5,6 +5,8 @@
 
 https://habrahabr.ru/company/philtech/blog/352390/[Полный перевод книги про построение сообществ: «Социальная архитектура».]
 
+https://youtu.be/Om7sRzxksXs[Аудиокнига] на русском языке
+
 https://youtu.be/wqlhYYtyRPI[Видео-обзор] книги на русском языке
 
 https://github.com/hintjens/socialarchitecture[Оригинал] книги на английском языке.
